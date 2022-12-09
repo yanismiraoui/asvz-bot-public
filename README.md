@@ -4,7 +4,7 @@
 <br />
 <br />
 
-:link: [Website of the ASVZ booker 🤖](https://asvz-booker.herokuapp.com/) 
+:link: [Website of the ASVZ booker 🤖](https://dash-asvz.yanismiraoui.repl.co/) 
 
 ↪️ Username: **"Yanis"** / Password: **""** (contact me if you already want access to the code of this bot 📬)
   
